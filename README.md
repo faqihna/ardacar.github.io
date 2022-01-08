@@ -1,8 +1,7 @@
 # Link Profile Template
 The HTML and CSS codes in this repository are cloned from the [Linktree](https://linktr.ee) black theme. The purpose of this repository is to collect links from social media or other websites in a single profile. Some people want to set up a profile like [Linktree](https://linktr.ee) for their domain name, but cannot find a theme. That's why I cloned the Linktree dark black theme and created it as a Github repository. Those who want to use it can clone the repository and add and edit their own links.
 
-Example social media icon code:
-Change the link address and SVG codes.
+Example social media icon code, change the link address and SVG codes.
 
 
 ```html
@@ -18,8 +17,7 @@ Change the link address and SVG codes.
 ```
 
 
-Example box link code:
-Change the link address and and text.
+Example box link code, change the link address and and text.
 
 
 ```html
