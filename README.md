@@ -7,7 +7,7 @@ Change the link address and SVG codes.
 
 ```html
 <a href="https://open.spotify.com/user/eqbobu1fy4yudngtxn3klzcis" target="_blank" rel="external noopener nofollow" class="sc-eCssSg gsOJfM saVRV">
-<svg enable-background="new 0 0 24 24"  viewBox="0 0 24 24"  class="sc-gKsewC fzSGPN">
+<svg enable-background="new 0 0 24 24" viewBox="0 0 24 24" class="sc-gKsewC fzSGPN">
 <title data-testid="svgTitle"  id="title_0.7150907606221844">Arda Acar Spotify SVG Logo</title>
 <path d="M18,10.561a.494.494,0,0,1-.245-.065,15.2,15.2,0,0,0-10.95-1.55.5.5,0,0,1-.232-.973A16.2,16.2,0,0,1,18.25,9.626a.5.5,0,0,1-.247.935Z"></path>
 <path d="M16.646,13.632a.5.5,0,0,1-.249-.066,12.459,12.459,0,0,0-9.121-1.292.5.5,0,1,1-.237-.971A13.458,13.458,0,0,1,16.9,12.7a.5.5,0,0,1-.25.933Z"></path>
@@ -25,7 +25,7 @@ Change the link address and and text.
 ```html
 <div class="sc-bdfBwQ pkAuV">
 <div class="sc-bdfBwQ hBNyQA eaMbDs">
-<a href="https://github.com/ardacar"  target="_blank" rel="external noopener nofollow" height="auto" class="sc-pFZIQ ldGKnQ imjgnX">
+<a href="https://github.com/ardacar" target="_blank" rel="external noopener nofollow" height="auto" class="sc-pFZIQ ldGKnQ imjgnX">
 <p class="sc-hKgILt CczVW rsIfq">Github</p>
 </a>
 </div>
