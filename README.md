@@ -1,8 +1,17 @@
 # Link Profile Template
-The HTML and CSS codes in this repository are cloned from the [Linktree](https://linktr.ee) dark theme. The purpose of this repository is to collect links from social media or other websites in a single profile. Some people want to set up a profile like [Linktree](https://linktr.ee) for their domain name, but cannot find a theme. That's why I cloned the Linktree dark black theme and created it as a Github repository. Those who want to use it can clone the repository and add and edit their own links.
+
+HTML and CSS codes in this repository are cloned from [Linktree](https://linktr.ee/) dark theme. The purpose of this repository is to collect links from social media or other websites in a single profile. Those who want to use it can clone the repository and add and edit their own links.
+
+# Demo
+
+[Click here](https://social.ardacar.com/) to see the demo.
+
+# Screenshot
+![screenshot of the website](https://raw.githubusercontent.com/ardacar/ardacar.github.io/main/screenshot.png)
+
+# Usage
 
 Example social media icon code, change the link address and SVG codes.
-
 
 ```html
 <a href="https://open.spotify.com/user/eqbobu1fy4yudngtxn3klzcis" target="_blank" rel="external noopener nofollow" class="sc-eCssSg gsOJfM saVRV">
@@ -16,9 +25,7 @@ Example social media icon code, change the link address and SVG codes.
 </a>
 ```
 
-
 Example box link code, change the link address and and text.
-
 
 ```html
 <div class="sc-bdfBwQ pkAuV">
@@ -30,7 +37,6 @@ Example box link code, change the link address and and text.
 </div>
 ```
 
+# Note
 
 You can make the theme design as you want by changing the codes in the style.css file under the subfolder. Also don't forget to change SEO related stuff from Meta tags.
-
-Preview: https://social.ardacar.com/
