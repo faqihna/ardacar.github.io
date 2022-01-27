@@ -2,11 +2,10 @@
 
 HTML and CSS codes in this repository are cloned from [Linktree](https://linktr.ee/) dark theme. The purpose of this repository is to collect links from social media or other websites in a single profile. Those who want to use it can clone the repository and add and edit their own links.
 
-# Demo
+# Demo And Screenshot
 
 [Click here](https://social.ardacar.com/) to see the demo.
 
-# Screenshot
 ![screenshot of the website](https://raw.githubusercontent.com/ardacar/ardacar.github.io/main/screenshot.png)
 
 # Usage
